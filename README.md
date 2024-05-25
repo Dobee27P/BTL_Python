@@ -4,7 +4,7 @@
 
 ## 1.Cơ sở dữ liệu:
    ### bảng:
-- Standings
+- Standings:giúp cho người dùng có thể theo dõi và so sánh vị trí của các đội bóng trong giải đấu, đồng thời cung cấp cái nhìn tổng quan về hiệu suất của từng đội trong mùa giải.
 - SP_standings
    
 ## 2.Module đọc dữ liệu: Sử dụng Python và FastAPI để tạo một API để truy cập dữ liệu từ cơ sở dữ liệu và cung cấp cho trang web.
